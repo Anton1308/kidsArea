@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(216, 74, 74);
+  background-image: url(/img/fancy-background-images-2560x1440.jpg);
 }
 
 .head {
@@ -7,13 +7,14 @@ body {
   color: coral;
   font-size: 35px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  margin: 30px;
+  margin-top: 50px;
 }
 
 .contentMain {
   font-size: 25px;
-  color: darkkhaki;
+  color: coral;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   margin-top: 50px;
   padding-left: 30px;
+  text-align: center;
 }
